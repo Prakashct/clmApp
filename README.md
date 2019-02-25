@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
+## Development Environment
+
+Node.js® is a asynchronous event driven JavaScript runtime, Node is designed to build scalable network applications
+Download: https://nodejs.org/en/download/
+
+Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, macOS and Linux.
+Download: https://code.visualstudio.com/download
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
